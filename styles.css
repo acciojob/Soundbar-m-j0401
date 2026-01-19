@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(14,14,14);
+}
+.sounds{
+	margin-top:40vh;
+	background-color:blueviolet;
+	height:100px;
+	display:flex;
+	
+	justify-content:space-evenly;
+}
+.box{
+	height:70px;
+	margin-top:20px;
+	width:70px;
+	color:white;
+	background-color:hsl(0 90% 40%);
+	
+}
